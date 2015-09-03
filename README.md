@@ -1,13 +1,18 @@
-# Intervention Image
+# Sales Whip
 
-Intervention Image is a **PHP image handling and manipulation** library providing an easier and expressive way to create, edit, and compose images. The package includes ServiceProviders and Facades for easy **Laravel** integration.
+* It is made for accesing the location of the nearest deals available 
+
+# Technology and Interface
+
+- OS - IOS MAC
+- Language - Swift
 
 [![Build Status](https://travis-ci.org/Intervention/image.png?branch=master)](https://travis-ci.org/Intervention/image)
 
 ## Requirements
 
-- PHP >=5.4
-- Fileinfo Extension
+- IOS >=10.4
+- Fileinfo Extension - .swift
 
 ## Supported Image Libraries
 
