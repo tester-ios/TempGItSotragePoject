@@ -48,6 +48,6 @@ Contributions to the Intervention Image library are welcome. Please note the fol
 
 ## License
 
-Intervention Image is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+Intervention Image is licensed under the [Tester Ios Renewed](http://opensource.org/licenses/MIT).
 
-Copyright 2014 [Oliver Vogel](http://olivervogel.net/)
+Copyright 2014 [Tester Ios Renewed](http://olivervogel.net/)
